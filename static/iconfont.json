@@ -1,0 +1,107 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "17280176",
+      "name": "icon_Bar chart",
+      "font_class": "icon_Barchart",
+      "unicode": "e66a",
+      "unicode_decimal": 58986
+    },
+    {
+      "icon_id": "17280177",
+      "name": "icon_classification",
+      "font_class": "icon_classification",
+      "unicode": "e66b",
+      "unicode_decimal": 58987
+    },
+    {
+      "icon_id": "17280192",
+      "name": "icon_code",
+      "font_class": "icon_code",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    },
+    {
+      "icon_id": "17280217",
+      "name": "icon_list",
+      "font_class": "icon_list",
+      "unicode": "e671",
+      "unicode_decimal": 58993
+    },
+    {
+      "icon_id": "17280241",
+      "name": "icon_repeat",
+      "font_class": "icon_repeat",
+      "unicode": "e675",
+      "unicode_decimal": 58997
+    },
+    {
+      "icon_id": "17280245",
+      "name": "icon_return",
+      "font_class": "icon_return",
+      "unicode": "e676",
+      "unicode_decimal": 58998
+    },
+    {
+      "icon_id": "17280246",
+      "name": "icon_search",
+      "font_class": "icon_search",
+      "unicode": "e677",
+      "unicode_decimal": 58999
+    },
+    {
+      "icon_id": "17280250",
+      "name": "icon_repair",
+      "font_class": "icon_repair",
+      "unicode": "e678",
+      "unicode_decimal": 59000
+    },
+    {
+      "icon_id": "17280255",
+      "name": "icon_Shopping Cart",
+      "font_class": "icon_ShoppingCart",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    },
+    {
+      "icon_id": "17280256",
+      "name": "icon_Sign in-95",
+      "font_class": "icon_Signin-95",
+      "unicode": "e67a",
+      "unicode_decimal": 59002
+    },
+    {
+      "icon_id": "17280262",
+      "name": "icon_set up",
+      "font_class": "icon_setup",
+      "unicode": "e67b",
+      "unicode_decimal": 59003
+    },
+    {
+      "icon_id": "17280267",
+      "name": "icon_team",
+      "font_class": "icon_team",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "17280279",
+      "name": "icon_upload-113",
+      "font_class": "icon_upload-113",
+      "unicode": "e67f",
+      "unicode_decimal": 59007
+    },
+    {
+      "icon_id": "17280281",
+      "name": "icon_user name",
+      "font_class": "icon_username",
+      "unicode": "e680",
+      "unicode_decimal": 59008
+    }
+  ]
+}
