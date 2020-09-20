@@ -51,14 +51,14 @@
 .iconfont {
   font-size: 20px;
   margin-right: 20px;
-  color: rgb(228, 110, 101);
+  color: rgb(82, 178, 241);
 }
 .right {
   font-size: 20px;
   float: left;  
   width: 88% ;
   height: 100%;
-  background-color: skyblue;
+  background-color: rgb(235, 171, 88);
   margin-left: 30px;
 }
 </style>
